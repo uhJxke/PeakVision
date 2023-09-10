@@ -1,0 +1,67 @@
+.peak-vision-desktop-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.peak-vision-desktop-peak-vision-desktop {
+  width: 100%;
+  height: 1024px;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: var(--dl-color-background-peakvisionbgcolor);
+}
+.peak-vision-desktop-navbar {
+  gap: 458px;
+  top: 13px;
+  left: 14px;
+  width: 1386px;
+  height: 62px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.peak-vision-desktop-frame6 {
+  gap: 49px;
+  top: 0px;
+  left: 21px;
+  width: 423px;
+  height: 62px;
+  display: flex;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.peak-vision-desktop-frame5 {
+  gap: 10px;
+  top: 0px;
+  left: 0px;
+  width: 62px;
+  display: flex;
+  padding: 8px;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 7px;
+  background-color: var(--dl-color-transparent-trasparentdarkgunmetal57);
+}
+.peak-vision-desktop-icon-white-logo {
+  width: 46px;
+  height: 46px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.peak-vision-desktop-icon-white-logo1 {
+  top: 0px;
+  left: 0px;
+  width: 46px;
+  height: 46px;
+  position: absolute;
+}
