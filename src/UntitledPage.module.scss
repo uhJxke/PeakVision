@@ -1,0 +1,19 @@
+@use "./utils.scss" as *;
+
+$bg_color_type_0: rgb(5, 4, 18);
+
+$padding_type_0: undefinedpx undefinedpx undefinedpx undefinedpx;
+
+$border_radius_type_0: 7px 7px 7px 7px;
+
+.main {
+  background-color: $bg_color_type_0;
+  border-radius: $border_radius_type_0;
+  display: flex;
+  flex-direction: column;
+  padding: $padding_type_0;
+  position: relative;
+}
+.main__cell {
+  display: grid;
+}
